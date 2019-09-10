@@ -1,2 +1,0 @@
-# FinAppReact
-Created with CodeSandbox
